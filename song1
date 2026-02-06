@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Devine les paroles</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      padding: 20px;
+    }
+
+    .lyrics {
+      font-size: 22px;
+      margin: 20px;
+      line-height: 1.8;
+    }
+
+    .hidden {
+      background-color: black;
+      color: black;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin: 2px;
+      display: inline-block;
+    }
+
+    .revealed {
+      color: green;
+      font-weight: bold;
+      margin: 2px;
+    }
+
+    input {
+      padding: 10px;
+      font-size: 16px;
+      width: 200px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎵 Devine les paroles 🎵</h1>
+
+  <div class="lyrics" id="lyrics"></div>
+
+  <input type="text" id="guessInput" placeholder="Tape un mot..." />
+  <button onclick="checkWord()">Valider</button>
+
+  <script>
+    // Paroles (modifiable)
+    const song = "Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill";
+
+    const words = song.split(" ");
+    const guessedWords = new Set();
+
+    const lyricsDiv = document.getElementById("lyrics");
+
+    function displayLyrics() {
+      lyricsDiv.innerHTML = "";
+
+      words.forEach(word => {
+        const span = document.createElement("span");
+
+        if (guessedWords.has(word.toLowerCase())) {
+          span.textContent = word;
+          span.className = "revealed";
+        } else {
+          span.textContent = "████";
+          span.className = "hidden";
+        }
+
+        lyricsDiv.appendChild(span);
+        lyricsDiv.appendChild(document.createTextNode(" "));
+      });
+    }
+
+    function checkWord() {
+      const input = document.getElementById("guessInput");
+      const guess = input.value.trim().toLowerCase();
+
+      if (guess === "") return;
+
+      guessedWords.add(guess);
+      input.value = "";
+
+      displayLyrics();
+
+      // Vérifier victoire
+      const allGuessed = words.every(word => guessedWords.has(word.toLowerCase()));
+
+      if (allGuessed) {
+        setTimeout(() => alert("Bravo ! Tu as trouvé toutes les paroles 🎉"), 100);
+      }
+    }
+
+    displayLyrics();
+  </script>
+
+</body>
+</html>
