@@ -1,5 +1,5 @@
 # GuessTheLyrics.github.io
-
+<!DOCTYPE html>
 <a href="jeu.html">Jouer</a>
 
 <html lang="fr">
