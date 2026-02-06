@@ -2,7 +2,6 @@
 
 <a href="jeu.html">Jouer</a>
 
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -71,7 +70,7 @@
 </head>
 <body>
 
-  <h1>🎵 Devine les paroles 🎵</h1>
+  <h1> Devine les paroles </h1>
 
   <!-- Page d'accueil -->
   <div id="home">
@@ -93,12 +92,13 @@
   <script>
     const songs = [
       {
-        title: "Chanson Pluie",
-        lyrics: "Je veux chanter sous la pluie et danser toute la nuit"
+        title: "Song1",
+        lyrics: "Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill He went out tiger hunting with his elephant and gun In case of accidents he always took his mum Hes the all American bulletheaded Saxon mothers son All the children sing Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill Deep in the jungle where the mighty tiger lies Bill and his elephants were taken by surprise So Captain Marvel zapped him right between the eyes All the children sing Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill The children asked him if to kill was not a sin Not when he looked so fierce his mummy butted in If looks could kill it would have been us instead of him All the children sing Hey Bungalow Bill What did you
+"
       },
       {
-        title: "Chanson Soleil",
-        lyrics: "Le soleil brille sur la mer et le ciel est bleu"
+        title: "Song2",
+        lyrics: "Picture yourself in a boat on a river With tangerine trees and marmalade skies Somebody calls you you answer quite slowly A girl with kaleidoscope eyes Cellophane flowers of yellow and green Towering over your head Look for the girl with the sun in her eyes And she's gone Lucy in the sky with diamond Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Follow her down to a bridge by a fountain Where rocking horse people eat marshmallow pies Everyone smiles as you drift past the flowers That grow so incredibly high Newspaper taxis appear on the shore Waiting to take you away Climb in the back with your head in the clouds And you're gone Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Picture yourself on a train in a station With plasticine porters with looking glass ties Suddenly someone is there at the turnstile The girl with kaleidoscope eyes Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky-"
       }
     ];
 
