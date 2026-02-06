@@ -1,5 +1,16 @@
 # GuessTheLyrics.github.io
 <!DOCTYPE html>
+
+
+<html>
+<head>
+  <title>Mon jeu</title>
+  <link rel="icon" type="cat paul mccartney/jpg" href="favicon.png">
+</head>
+<body>
+</body>
+</html>
+
 <a href="jeu.html">Jouer</a>
 
 <html lang="fr">
