@@ -115,7 +115,7 @@ button:active:after {
 
 <body>
   <div class="banner">
-  <img src="beatles_banner.jpg" alt="Bannière du site">
+  <img src="beatles_banner.png" alt="Bannière du site">
 </div>
   
   <img src="cat_paul_mccartney.jpg" alt="cat_paul_mccartney.jpg" width="200" height="245">
