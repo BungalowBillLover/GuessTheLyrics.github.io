@@ -67,8 +67,14 @@
       {
         title: "Song2",
         lyrics: "Picture yourself in a boat on a river With tangerine trees and marmalade skies Somebody calls you you answer quite slowly A girl with kaleidoscope eyes Cellophane flowers of yellow and green Towering over your head Look for the girl with the sun in her eyes And she's gone Lucy in the sky with diamond Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Follow her down to a bridge by a fountain Where rocking horse people eat marshmallow pies Everyone smiles as you drift past the flowers That grow so incredibly high Newspaper taxis appear on the shore Waiting to take you away Climb in the back with your head in the clouds And you're gone Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Picture yourself on a train in a station With plasticine porters with looking glass ties Suddenly someone is there at the turnstile The girl with kaleidoscope eyes Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky with diamonds ahh Lucy in the sky with diamonds Lucy in the sky with diamonds Lucy in the sky"
+
+      }, 
+      {
+        title: "Song3",
+        lyrics: "I look at all the lonely people I look at all the lonely people Eleanor Rigby picks up the rice In the church where a wedding has been Lives in a dream Waits at the window wearing the face That she keeps in a jar by the door Who is it for All the lonely people Where do they all come from All the lonely people Where do they all belong Father McKenzie writing the words Of a sermon that no one will hear No one comes near Look at him working, darning his socks In the night when there's nobody there What does he care All the lonely people Where do they all come from All the lonely people Where do they all belong Ah look at all the lonely people Ah look at all the lonely people Eleanor Rigby died in the church And was buried along with her name Nobody came Father McKenzie wiping the dirt From his hands as he walks from the grave No one was saved All the lonely people Where do they all come from All the lonely people Where do they all belong"
       }
     ];
+    
 
     let words = [];
     const guessedWords = new Set();
