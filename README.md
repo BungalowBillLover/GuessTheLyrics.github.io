@@ -105,7 +105,7 @@ button:active:after {
 
     .song-list button:hover { background-color: #45a049; }
 
-    .lyrics { font-size: 22px; margin: 20px; line-height: 1.8; }
+    .lyrics { font-size: 11px; margin: 20px; line-height: 1.8; }
     .hidden { background-color: black; color: black; padding: 2px 6px; border-radius: 4px; margin: 2px; display: inline-block; }
     .revealed { color: green; font-weight: bold; margin: 2px; }
     input { padding: 10px; font-size: 16px; width: 200px; }
@@ -149,7 +149,7 @@ button:active:after {
     const songs = [
       {
         title: "Song1",
-        lyrics: "Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill He went out tiger hunting with his elephant and gun In case of accidents he always took his mum Hes the all American bulletheaded Saxon mothers son All the children sing Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill Deep in the jungle where the mighty tiger lies Bill and his elephants were taken by surprise So Captain Marvel zapped him right between the eyes All the children sing Hey Bungalow Bill What did you kill Bungalow Bill Hey Bungalow Bill What did you kill Bungalow Bill The children asked him if to kill was not a sin Not when he looked so fierce his mummy butted in If looks could kill it would have been us instead of him All the children sing Hey Bungalow Bill What did you"
+        lyrics: "Hey Bungalow Bill What did you kill Bungalow Bill <BR> Hey Bungalow Bill What did you kill Bungalow Bill <BR> He went out tiger hunting with his elephant and gun <BR> In case of accidents he always took his mum <BR> Hes the all American bulletheaded Saxon mothers son <BR> All the children sing <BR> Hey Bungalow Bill What did you kill Bungalow Bill <BR> Hey Bungalow Bill What did you kill Bungalow Bill <BR> Deep in the jungle where the mighty tiger lies <BR> Bill and his elephants were taken by surprise <BR> So Captain Marvel zapped him right between the eyes <BR> All the children sing <BR> Hey Bungalow Bill What did you kill Bungalow Bill <BR> Hey Bungalow Bill What did you kill Bungalow Bill <BR> The children asked him if to kill was not a sin <BR> Not when he looked so fierce his mummy butted in <BR> If looks could kill it would have been us instead of him <BR> All the children sing <BR> Hey Bungalow Bill What did you"
       },
       {
         title: "Song2",
