@@ -9,7 +9,7 @@
   <title>Devine les paroles</title>
   <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
   <style>
-      {
+  body {
       font-family: Arial, sans-serif;
       text-align: center;
       background-color: #f5f5f5;
@@ -105,6 +105,15 @@ button:active:after {
 
 
 <body>
+  <div class="banner">
+  <img src="beatles_banner.jpg" alt="Bannière du site">
+    .banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</div>
+  
   <img src="img_chania.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
   <h1>Devine les paroles</h1>
 
@@ -112,7 +121,6 @@ button:active:after {
   <div id="home">
     <h2>Choisis une chanson</h2>
     <div class="song-list" id="songList"></div>
-    <body style="background-color: rgb(255,222,33);">
   </div>
 
   <!-- Page du jeu -->
