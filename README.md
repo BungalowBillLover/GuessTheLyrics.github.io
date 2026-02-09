@@ -6,11 +6,17 @@
   
   <head>
   <meta charset="UTF-8">
+    
+     .banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
   <title>Devine les paroles</title>
   <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
   <style>
   body {
-      font-family: Arial, sans-serif;
+      font-family: Comic Sans MS, sans-serif;
       text-align: center;
       background-color: #f5f5f5;
       padding: 20px;
@@ -107,14 +113,9 @@ button:active:after {
 <body>
   <div class="banner">
   <img src="beatles_banner.jpg" alt="Bannière du site">
-    .banner img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
 </div>
   
-  <img src="img_chania.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
+  <img src="cat_paul_mccartney.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
   <h1>Devine les paroles</h1>
 
   <!-- Page d'accueil -->
