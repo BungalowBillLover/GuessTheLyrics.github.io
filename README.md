@@ -37,6 +37,8 @@
     .revealed { color: green; font-weight: bold; margin: 2px; }
     input { padding: 10px; font-size: 16px; width: 200px; }
     .back-btn { margin-top: 20px; padding: 8px 20px; cursor: pointer; }
+
+    <img src="img_chania.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
   </style>
 </head>
 
