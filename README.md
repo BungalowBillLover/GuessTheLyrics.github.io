@@ -52,6 +52,7 @@
   <div id="home">
     <h2>Choisis une chanson</h2>
     <div class="song-list" id="songList"></div>
+    <body style="background-color: rgb(255,222,33);">
   </div>
 
   <!-- Page du jeu -->
@@ -62,7 +63,7 @@
     <button onclick="checkWord()">Valider</button>
 
     <br>
-    <button class="back-btn" onclick="goHome()">⬅ Retour accueil</button>
+    <button class="back-btn" onclick="goHome()"> Retour accueil</button>
   </div>
 
   <script>
