@@ -19,7 +19,7 @@
 }
     
   body {
-      font-family: "Comic Sans MS", sans-serif;
+      font-family: "Comic Sans MS", Comic Sans MS;
       text-align: center;
       background-color: rgb(255,215,0);
       padding: 20px;
