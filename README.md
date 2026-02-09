@@ -2,10 +2,12 @@
 
 <!DOCTYPE html>
 <html lang="fr">
-<head>
+
+  
+  <head>
   <meta charset="UTF-8">
   <title>Devine les paroles</title>
-  <link rel="icon" type="cat paul mccartney/jpg" href="favicon.jpg">
+  <link rel="icon" type="cat_paul_mccartney/jpg" href="..\Downloads\cat_paul_mccartney.jpg">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -37,6 +39,11 @@
     .back-btn { margin-top: 20px; padding: 8px 20px; cursor: pointer; }
   </style>
 </head>
+
+
+
+
+
 <body>
 
   <h1>Devine les paroles</h1>
