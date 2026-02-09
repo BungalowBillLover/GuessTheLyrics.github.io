@@ -24,12 +24,11 @@
   background-image: url('beatles_banner.png');
   background-repeat: repeat;
 }
-      margin: 0;       /* supprime l’espace par défaut */
-      padding: 0;      /* supprime le padding */
       font-family: "Comic Sans MS", "Comic Sans";
       text-align: center;
       background-color: rgb(255,215,0);
-      padding: 20px;
+      padding: 0px;
+      margin: Opx;
     }
 
     h1 { margin-bottom: 30px; }
