@@ -19,6 +19,11 @@
 }
     
   body {
+
+    p {
+  background-image: url('beatles_banner.png');
+  background-repeat: repeat;
+}
       margin: 0;       /* supprime l’espace par défaut */
       padding: 0;      /* supprime le padding */
       font-family: "Comic Sans MS", "Comic Sans";
