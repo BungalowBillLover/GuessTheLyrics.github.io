@@ -6,9 +6,10 @@
   
   <head>
   <meta charset="UTF-8">
-    
+   <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
   <title>Devine les paroles</title>
-  <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
+ 
+  
   <style>
     
     .banner img {
@@ -20,7 +21,7 @@
   body {
       font-family: "Comic Sans MS", sans-serif;
       text-align: center;
-      background-color: #f5f5f5;
+      background-color: rgb(255,215,0);
       padding: 20px;
     }
 
