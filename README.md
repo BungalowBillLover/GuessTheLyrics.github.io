@@ -7,16 +7,18 @@
   <head>
   <meta charset="UTF-8">
     
-     .banner img {
+  <title>Devine les paroles</title>
+  <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
+  <style>
+    
+    .banner img {
   width: 100%;
   height: auto;
   display: block;
 }
-  <title>Devine les paroles</title>
-  <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
-  <style>
+    
   body {
-      font-family: Comic Sans MS, sans-serif;
+      font-family: "Comic Sans MS", sans-serif;
       text-align: center;
       background-color: #f5f5f5;
       padding: 20px;
