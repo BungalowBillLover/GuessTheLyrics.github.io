@@ -7,9 +7,9 @@
   <head>
   <meta charset="UTF-8">
   <title>Devine les paroles</title>
-  <link rel="icon" type="cat_paul_mccartney/jpg" href="..\Downloads\cat_paul_mccartney.jpg">
+  <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
   <style>
-    body {
+      {
       font-family: Arial, sans-serif;
       text-align: center;
       background-color: #f5f5f5;
@@ -96,7 +96,7 @@ button:active:after {
     input { padding: 10px; font-size: 16px; width: 200px; }
     .back-btn { margin-top: 20px; padding: 8px 20px; cursor: pointer; }
 
-    <img src="img_chania.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
+  
   </style>
 </head>
 
@@ -105,7 +105,7 @@ button:active:after {
 
 
 <body>
-
+  <img src="img_chania.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
   <h1>Devine les paroles</h1>
 
   <!-- Page d'accueil -->
