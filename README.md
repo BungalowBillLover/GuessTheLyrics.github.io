@@ -155,7 +155,18 @@ button:active:after {
       {
         title: "Song3",
         lyrics: "I look at all the lonely people I look at all the lonely people Eleanor Rigby picks up the rice In the church where a wedding has been Lives in a dream Waits at the window wearing the face That she keeps in a jar by the door Who is it for All the lonely people Where do they all come from All the lonely people Where do they all belong Father McKenzie writing the words Of a sermon that no one will hear No one comes near Look at him working, darning his socks In the night when there's nobody there What does he care All the lonely people Where do they all come from All the lonely people Where do they all belong Ah look at all the lonely people Ah look at all the lonely people Eleanor Rigby died in the church And was buried along with her name Nobody came Father McKenzie wiping the dirt From his hands as he walks from the grave No one was saved All the lonely people Where do they all come from All the lonely people Where do they all belong"
-      }
+      },
+        {
+          title: "Song4", 
+          lyrics: "Yesterday All my troubles seemed so far away Now it looks as though they're here to stay Oh I believe in yesterday Suddenly I'm not half the man I used to be There's a shadow  hanging over me Oh yesterday came suddenly Why she had to go I don't know she wouldn't say I said something wrong now I long for yesterday Yesterday Love was such an easy game to play Now I need a place to hide away Oh I believe in yesterday Why she had to go I don't know she wouldn't say I said something wrong, now I long for yesterday Yesterday Love was such an easy game to play Now I need a place to hide away Oh I believe in yesterday"
+      }, 
+      {
+        title: "Song5", 
+        lyrics: "When I find myself in times of trouble Mother Mary comes to me Speaking words of wisdom let it be And in my hour of darkness she is standing right in front of me Speaking words of wisdom let it be Let it be let it be let it be let it be Whisper words of wisdom let it be And when the broken hearted people living in the world agree There will be an answer let it be For though they may be parted there is still a chance that they will see There will be an answer let it be Let it be let it be let it be let it be There will be an answer let it be Let it be let it be let it be let it be Whisper words of wisdom let it be Let it be let it be let it be let it be Whisper words of wisdom let it be be And when the night is cloudy there is still a light that shines on me Shining until tomorrow let it be I wake up to the sound of music Mother Mary comes to meSpeaking words of wisdom let it be And let it be let it be let it be let it be whisper words of wisdom let it be And let it be let it be let it be let it be Whisper words of wisdom let it be"
+      }, 
+      {
+        title: "Song6", 
+        lyrics: "In the town where I was born Lived a man who sailed to sea And he told us of his life In the land of submarines So we sailed on to the sun Til we found a sea of green And we lived beneath the waves In our yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine And our friends are all aboard Many more of them live next door And the band begins to play We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine As we live a life of ease a life of ease Everyone of us Has all we need Sky of blue And sea of green In our yellow Submarine We all live in a yellow submarine A yellow submarine yellow submarine We all live in a yellow submarine A yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine"
     ];
     
 
