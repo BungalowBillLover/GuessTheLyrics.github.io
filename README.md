@@ -164,9 +164,11 @@ button:active:after {
         title: "Song5", 
         lyrics: "When I find myself in times of trouble Mother Mary comes to me Speaking words of wisdom let it be And in my hour of darkness she is standing right in front of me Speaking words of wisdom let it be Let it be let it be let it be let it be Whisper words of wisdom let it be And when the broken hearted people living in the world agree There will be an answer let it be For though they may be parted there is still a chance that they will see There will be an answer let it be Let it be let it be let it be let it be There will be an answer let it be Let it be let it be let it be let it be Whisper words of wisdom let it be Let it be let it be let it be let it be Whisper words of wisdom let it be be And when the night is cloudy there is still a light that shines on me Shining until tomorrow let it be I wake up to the sound of music Mother Mary comes to meSpeaking words of wisdom let it be And let it be let it be let it be let it be whisper words of wisdom let it be And let it be let it be let it be let it be Whisper words of wisdom let it be"
       }, 
+      
       {
         title: "Song6", 
         lyrics: "In the town where I was born Lived a man who sailed to sea And he told us of his life In the land of submarines So we sailed on to the sun Til we found a sea of green And we lived beneath the waves In our yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine And our friends are all aboard Many more of them live next door And the band begins to play We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine As we live a life of ease a life of ease Everyone of us Has all we need Sky of blue And sea of green In our yellow Submarine We all live in a yellow submarine A yellow submarine yellow submarine We all live in a yellow submarine A yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine We all live in a yellow submarine Yellow submarine yellow submarine"
+      },
     ];
     
 
