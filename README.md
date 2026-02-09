@@ -117,7 +117,7 @@ button:active:after {
   <img src="beatles_banner.jpg" alt="Bannière du site">
 </div>
   
-  <img src="cat_paul_mccartney.jpg" alt="cat_paul_mccartney.jpg" width="735" height="899">
+  <img src="cat_paul_mccartney.jpg" alt="cat_paul_mccartney.jpg" width="200" height="245">
   <h1>Devine les paroles</h1>
 
   <!-- Page d'accueil -->
