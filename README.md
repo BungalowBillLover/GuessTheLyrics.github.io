@@ -11,24 +11,26 @@
  
   
   <style>
+  
     
-    .banner img {
+  body {
+      font-family: "Comic Sans MS", Comic Sans, sans-serif;
+    text-align: center;
+      background-color: rgb(255,215,0);
+      padding: 0;
+      margin: 0;
+  }
+      .banner img {
   width: 100%;
   height: auto;
   display: block;
 }
-    
-  body {
 
     p {
   background-image: url('beatles_banner.png');
   background-repeat: repeat;
 }
-      font-family: "Comic Sans MS", "Sans-Serif";
-      text-align: center;
-      background-color: rgb(255,215,0);
-      padding: 0;
-      margin: 0;
+      
     }
 
     h1 { margin-bottom: 30px; }
@@ -143,6 +145,7 @@ button:active:after {
 
     <br>
     <button class="back-btn" onclick="goHome()"> Retour accueil</button>
+    let words = songs[index].lyrics.split(/<br\s*\/?>|\s+/i);
   </div>
 
   <script>
