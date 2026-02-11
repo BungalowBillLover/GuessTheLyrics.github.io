@@ -21,9 +21,11 @@
       margin: 0;
   }
       .banner img {
-  width: 100%;
+  width: 50%;
   height: auto;
   display: block;
+   <div class="container container--full">
+    </div>
 }
 
     p {
@@ -118,14 +120,12 @@ button:active:after {
 </head>
 
 
-
-
-
-<body>
-
-  <div class="banner">
+  <header class="header">
+    
   <img src="beatles_banner.png" alt="Bannière du site">
+   <div class="container container--full">
 </div>
+</header>
   
   <img src="cat_paul_mccartney.jpg" alt="cat_paul_mccartney.jpg" width="200" height="245">
   <h1>Devine les paroles</h1>
