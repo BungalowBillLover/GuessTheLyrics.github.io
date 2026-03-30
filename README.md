@@ -6,7 +6,7 @@
   
   <head>
   <meta charset="UTF-8">
-   <link rel="icon" type="image/jpg" href="cat_paul_mccartney.jpg">
+   <link rel="icon" type="image/x-icon" href="/cat_paul_mccartney.ico">
   <title>Devine les paroles</title>
  
   
